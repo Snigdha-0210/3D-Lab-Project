@@ -69,14 +69,17 @@ npm run dev
 
 ## 📸 Screenshots
 
-*(Add your project screenshots here)*
+### 🏠 Home Page
+![Home](./screenshots/home.png)
 
-Example:
+### 🎮 3D Scene
+![Scene](./screenshots/start.png)
 
-```
-![Home Page](./screenshots/home.png)
-```
+### ✨ Feature
+![Feature](./screenshots/process.png)
 
+### 🔍 Result
+![Result](./screenshots/result.png)
 ---
 
 ## 📈 Future Improvements
