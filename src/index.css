@@ -1,0 +1,25 @@
+:root {
+  font-family: "Space Grotesk", "Segoe UI", system-ui, -apple-system, sans-serif;
+  background-color: #0b1224;
+  color: #e2e8f0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 20% 20%, rgba(34, 197, 235, 0.08), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(99, 102, 241, 0.08), transparent 40%),
+    #0b1224;
+}
+
+.canvas-shell {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
