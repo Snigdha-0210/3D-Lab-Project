@@ -21,7 +21,7 @@ The **3D Lab Project** is an interactive web-based application built using **Rea
 * **Frontend:** React
 * **Build Tool:** Vite
 * **Languages:** JavaScript, HTML, CSS
-* *(Optional: Add Three.js if you're using it)*
+  
 
 ---
 
